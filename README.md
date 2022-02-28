@@ -1,6 +1,6 @@
 # HotelReservationSystem-C-PROJECT :star_struck: :open_file_folder: :computer: :closed_book:
 
-[![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JDK-version%2016-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/file-handling-success)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/C-programming-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/file-handling-success)](https://shields.io/)
 <br>
 
 ***This new Student Record System using Java is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
