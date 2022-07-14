@@ -20,7 +20,7 @@
 
 <div align="justified">
  
-
+The project HOTEL RESERVATION SYSTEM is used for keeping record of each and every customers of hotel in a database format. Usually, this system is handled by receptionists, record managers. It is confidential and cannot be opened by others. When a customer comes, his details should be recorded by this system. All details of a customder should be kept carefully. All customers list is maintained. So, the unoccupied rooms can be given to new customers. When customer checkes out from hotel then the total fees and cost is given to him for payment. The records of the patients are kept confidentially. I have created a program hotel.c. I have used structure, array, pointers, if else, switch case, while loop, do while loop and file handling. I have designed the output screen in various ways. I have used file as a database for this project. This system can be modified and also can be deployed.
 
 </div>
 
@@ -28,35 +28,14 @@
 
 <div align="justified">
 
+I have created it in for my first sem project. I have practiced file handling concepts in C and got a basic idea of management systems.
 
-</div>
-
-## Use :point_down:
-
-<div align="justified">
- 
-
-</div>
-
-## Applications :point_down:
-
-<div align="justified">
-
- 
- </div>
-
-## Future Scopes :point_down:
-
-<div align="justified">
- 
- 
 </div>
 
 ## Folder Structure :point_down:
 
-
-## Making :point_down:
-
+Hotel Management System
+        └── hotel.c
 
 ## Screenshots :point_down: 
 
