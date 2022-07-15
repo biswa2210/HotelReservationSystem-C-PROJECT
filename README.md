@@ -24,6 +24,11 @@ The project HOTEL RESERVATION SYSTEM is used for keeping record of each and ever
 
 </div>
 
+## HOTEL RESERVATION SYSTEM DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=VpuShkjY0bM&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a&index=3">Click here to watch</a>
+
+## C and C++ PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
+
+
 ## Purpose :point_down:
 
 <div align="justified">
@@ -33,10 +38,10 @@ I have created it in for my first sem project. I have practiced file handling co
 </div>
 
 ## Folder Structure :point_down:
-
+```bash
 Hotel Management System
         └── hotel.c
-
+```
 ## Screenshots :point_down: 
 
 <div align="center">
